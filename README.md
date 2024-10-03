@@ -1,3 +1,28 @@
+# 동석 작성.
+
+## 개발 환경 구축
+
+- nvm 버전은 20.14버전
+
+```sh
+nvm use v20;
+npm install
+npm run dev
+```
+
+## urls
+
+http://localhost:3000/
+http://localhost:3000/api/hello
+http://localhost:3000/exercise/camera
+http://localhost:3000/exercise/camera2
+
+## 도움받은 ai 형님들
+
+- webcrumbs frontend ai
+  - https://www.webcrumbs.org/frontend-ai
+- chatgpt
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
